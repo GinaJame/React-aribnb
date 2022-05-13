@@ -1,0 +1,57 @@
+.card {
+    width: 240px;
+    overflow: hidden;
+    position: relative;
+    font-family: 'Arial', sans-serif;
+    display: inline-block;
+    margin: 20px 20px;
+    text-align: left;
+}
+
+.card .card-image {
+    border-radius: 14px;
+}
+
+.card .like {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    width: 50px;
+    opacity: 0.5;
+}
+
+.card .star {
+    width: 30px;
+    vertical-align: middle;
+}
+
+.card .rating {
+    font-weight: 100;
+}
+
+.card .reviews {
+    font-weight: 100;
+    color: #bbb;
+    padding: 0 3px;
+}
+
+.card .country {
+    font-weight: 100;
+    color: #bbb;
+}
+
+.card .price {
+    font-weight: bold;
+    color: black;
+    margin: 10px 0;
+}
+
+.card .price {
+    font-weight: bold;
+    color: black;
+    margin: 10px 0;
+}
+
+.card .price span {
+    font-weight: 100;
+}

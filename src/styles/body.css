@@ -1,0 +1,12 @@
+section {
+    width: 80%;
+    margin: 0 auto;
+}
+
+section h1 {
+    font-family: sans-serif;
+}
+
+.cards-container {
+    text-align: center;
+}
